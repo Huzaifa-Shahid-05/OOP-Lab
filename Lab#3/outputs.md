@@ -6,7 +6,7 @@
 
 **Task \# 1:**
 
-![](./images/image1.png){width="6.268055555555556in" height="5.275in"}
+![](./images/image1.png)
 
 ![](./images/image2.png)
 
